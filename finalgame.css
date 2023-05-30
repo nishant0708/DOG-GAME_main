@@ -5,21 +5,20 @@
     background: black;
 }
 #instruction{
-    margin-top: 2vh;
+    margin-top: 80px;
     color: white;
     font-family: 'Creepster', cursive;
     text-align: center;
     font-size: 50px;
-   
+
 }
 span{
     color:royalblue;
 }
 #canvas1{
     border: 5px solid black;
-    position: absolute;
-    margin-top:30%;
-    top:80vh;
+    position: relative;
+    top: 40vh;
     left:50%;
     transform: translate(-50%,-50%);
     max-width: 100%;
